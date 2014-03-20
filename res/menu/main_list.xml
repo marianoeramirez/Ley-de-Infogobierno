@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto"
+     >
+    
+    <!-- 
+    <item android:id="@+id/action_search"
+          android:icon="@drawable/action_search"
+          android:title="Search"
+           yourapp:showAsAction="always"
+           yourapp:actionViewClass="android.support.v7.widget.SearchView"
+          />
+    <item
+	    android:id="@+id/action_info"
+	    android:icon="@android:drawable/ic_menu_help"
+	    android:orderInCategory="100"
+	    
+	    android:title="Información"
+	    yourapp:showAsAction="ifRoom"
+    /> -->
+</menu>

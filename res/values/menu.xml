@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="string_array_name">
+        <item>Inicio</item>
+        <item>Titulo I</item>
+        <item>Titulo II</item>
+        <item>Titulo III</item>
+        <item>Titulo IV</item>
+        <item>Titulo V</item>
+        <item>Titulo VI</item>
+        <item>DISP.</item>
+    </string-array>
+    <string-array
+        name="leyes_titulos">
+        <item>Inicio</item>
+        <item>DISPOSICIONES FUNDAMENTALES</item>
+        <item>DE LA ORGANIZACIÓN EN EL PODER PÚBLICO PARA EL USO DE LAS TECNOLOGÍAS DE INFORMACIÓN</item>
+        <item>DE LOS TRIBUTOS</item>
+        <item>DESARROLLO DEL SECTOR DE TECNOLOGÍAS DE INFORMACIÓN LIBRES</item>
+        <item>DERECHO Y GARANTÍA DE LAS PERSONAS SOBRE EL ACCESO A LA INFORMACIÓN</item>
+        <item>RÉGIMEN SANCIONATORIO</item>
+        <item>DISPOSICIONES TRANSITORIAS, DEROGATORIAS Y FINALES</item>
+    </string-array>
+    
+</resources>

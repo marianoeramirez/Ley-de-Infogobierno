@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" android:id="@+id/capitulolinear" >
+
+    <TextView
+        android:id="@+id/numeracioncapitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="0dp"
+        android:gravity="center"
+        style="@style/TitleCapituloStyle"
+        android:text="" />
+    <TextView
+        android:id="@+id/titulocapitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:gravity="center"
+        style="@style/SubTitleCapituloStyle"
+        android:text="" />
+    <LinearLayout  android:layout_width="match_parent" android:orientation="vertical"
+        android:layout_height="wrap_content" android:id="@+id/listart" style="@style/ListView"></LinearLayout>
+
+</LinearLayout>

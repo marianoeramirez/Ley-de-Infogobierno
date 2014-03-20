@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ley de INFOGOBIERNO</string>
+    <string name="app_tittle">Infogobierno</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Inicio</string>
+    <string name="title_activity_articulo">Articulo</string>
+    <string name="home_publicado">Nueva Ley de Infogobierno, publicada en Gaceta Oficial N° 40.724 de fecha 17 de octubre del 2013.</string>
+	<string name="credits">Desarrollado por: &lt;a href="https://twitter.com/sosinformatico">@sosinformatico&lt;/a>
+	    
+	</string>
+</resources>
